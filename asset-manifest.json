@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/spacexclone/static/css/main.7dda6278.css",
+    "main.js": "/spacexclone/static/js/main.0e8171ed.js",
+    "static/js/453.0a36081d.chunk.js": "/spacexclone/static/js/453.0a36081d.chunk.js",
+    "static/media/QuickTok - Starship _ Third Flight Test.mp4": "/spacexclone/static/media/QuickTok - Starship _ Third Flight Test.14069590219cbb37e224.mp4",
+    "static/media/vid1.mp4": "/spacexclone/static/media/vid1.4527673fa5b12d8636f5.mp4",
+    "static/media/WebsiteStarshipStack_Anim_Render_Desktop_7.mp4": "/spacexclone/static/media/WebsiteStarshipStack_Anim_Render_Desktop_7.7baa465f691218bdc60e.mp4",
+    "static/media/falcon.mp4": "/spacexclone/static/media/falcon.17c7702f2397be9abcdb.mp4",
+    "static/media/DragonTrunk_Render_Mobile.png": "/spacexclone/static/media/DragonTrunk_Render_Mobile.42851ab79c0765101b47.png",
+    "static/media/fh_feature-mobile.jpg": "/spacexclone/static/media/fh_feature-mobile.e9d5ef88aaf7abe43069.jpg",
+    "static/media/f9_feature.jpg": "/spacexclone/static/media/f9_feature.ecfcd6e68188c26e08f0.jpg",
+    "static/media/Starbase_Mobile.jpg": "/spacexclone/static/media/Starbase_Mobile.37a73c524f42439a7ba4.jpg",
+    "static/media/Merlin.jpg": "/spacexclone/static/media/Merlin.ba0414742ceed564931d.jpg",
+    "static/media/Draco.jpg": "/spacexclone/static/media/Draco.1915e6fec3ad4d61a22c.jpg",
+    "static/media/dragon_feature_mobile.jpg": "/spacexclone/static/media/dragon_feature_mobile.ba64f5dd64a1dc3dfc41.jpg",
+    "static/media/WebsiteFHFairings_Render_Mobile.jpg": "/spacexclone/static/media/WebsiteFHFairings_Render_Mobile.ad2250bf52c810af1384.jpg",
+    "static/media/Starhip_website-crop20230126_dji_0199_MOBILE_01.jpg": "/spacexclone/static/media/Starhip_website-crop20230126_dji_0199_MOBILE_01.911ad199074c94bb6c0e.jpg",
+    "static/media/FH_1_mobile.jpg": "/spacexclone/static/media/FH_1_mobile.f1b37e567dd0084c9694.jpg",
+    "static/media/DRAGON_DRAGON+F9_800x1200_Mobile.jpg": "/spacexclone/static/media/DRAGON_DRAGON+F9_800x1200_Mobile.709afee3ffc2d5a440e9.jpg",
+    "static/media/falconimg.jpg": "/spacexclone/static/media/falconimg.52066bf84beb5cf27015.jpg",
+    "static/media/img4.jpg": "/spacexclone/static/media/img4.e58c9b4f4209ddbe57e6.jpg",
+    "static/media/img3.jpg": "/spacexclone/static/media/img3.0ec39e26661ff666590e.jpg",
+    "static/media/img2.jpg": "/spacexclone/static/media/img2.c953ae0f025657490058.jpg",
+    "static/media/img1.jpg": "/spacexclone/static/media/img1.4d7646b9294ed03ccb3d.jpg",
+    "index.html": "/spacexclone/index.html",
+    "main.7dda6278.css.map": "/spacexclone/static/css/main.7dda6278.css.map",
+    "main.0e8171ed.js.map": "/spacexclone/static/js/main.0e8171ed.js.map",
+    "453.0a36081d.chunk.js.map": "/spacexclone/static/js/453.0a36081d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dda6278.css",
+    "static/js/main.0e8171ed.js"
+  ]
+}
